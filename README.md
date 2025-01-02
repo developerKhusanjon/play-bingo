@@ -1,2 +1,2 @@
-# shopify-webflux
-Performance profiling part application
+# shopify-reactive
+Event driven e-commerce application
